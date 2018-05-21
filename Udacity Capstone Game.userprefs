@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Udacity Capstone Game.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Low Poly Ultimate Pack\Shaders\UnityVC\UnityVC.cginc">
+    <Files>
+      <File FileName="Assets\Low Poly Ultimate Pack\Shaders\UnityVC\UnityVC.cginc" Line="126" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
